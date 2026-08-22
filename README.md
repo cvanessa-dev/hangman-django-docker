@@ -1,8 +1,6 @@
 # Hangman Django Docker
 
 Juego del ahorcado desarrollado con Python, Django y Docker.
-<img width="1045" height="528" alt="Bienvenido" src="https://github.com/user-attachments/assets/4d5fa397-fe6d-4217-a121-19d9ad49b598" />
-
 
 ## Tecnologías utilizadas
 
@@ -19,6 +17,21 @@ Juego del ahorcado desarrollado con Python, Django y Docker.
 - Detección automática de victoria o derrota
 - Persistencia de cada partida en base de datos
 - Interfaz visual con CSS personalizado
+
+## 📸 Capturas del juego
+
+### Pantalla de inicio
+![Inicio](screenshots/Inicio.png)
+
+### Partida en curso
+![Juego](screenshots/Juego.png)
+
+### Victoria
+![Ganaste](screenshots/Ganar.png)
+
+### Derrota
+![Perdiste](screenshots/Perder.png)
+
 
 ## Cómo ejecutar el proyecto
 
