@@ -4,6 +4,7 @@ Juego del ahorcado desarrollado con Python, Django y Docker.
 
 ## Tecnologías utilizadas
 
+- Ubuntu Server (entorno de despliegue)
 - Python 3.12
 - Django 5.0.6
 - Docker y Docker Compose
@@ -34,6 +35,8 @@ Juego del ahorcado desarrollado con Python, Django y Docker.
 
 
 ## Cómo ejecutar el proyecto
+
+> El proyecto fue desplegado y probado en un servidor Ubuntu Server con Docker instalado.
 
 1. Clonar el repositorio:
 git clone https://github.com/Vanessa1356458/hangman-django-docker.git
