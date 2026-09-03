@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7)&n_4#4pwsm=$3k5byuc0r@q99kn5&)&lwad7fzba@jw7bq&_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.204.133', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['hangman-django-docker.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
