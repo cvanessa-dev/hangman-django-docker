@@ -39,7 +39,7 @@ Juego del ahorcado desarrollado con Python, Django y Docker.
 > El proyecto fue desplegado y probado en un servidor Ubuntu Server con Docker instalado.
 
 1. Clonar el repositorio:
-git clone https://github.com/Vanessa1356458/hangman-django-docker.git
+git clone https://github.com/cvanessa-dev/hangman-django-docker.git
 cd hangman-django-docker
 
 2. Construir la imagen de Docker:
@@ -60,4 +60,5 @@ hangman-django-docker/
 
 ## Autora
 
-Vanessa - Ingeniería en Sistemas
+Vanessa 
+Ingeniería en Sistemas 
