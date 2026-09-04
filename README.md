@@ -2,13 +2,14 @@
 
 Juego del ahorcado desarrollado con Python, Django y Docker.
 
+🚀 Demo en vivo: https://hangman-django-docker.onrender.com
+
 ## Tecnologías utilizadas
 
-- Ubuntu Server (entorno de despliegue)
-- Python 3.12
-- Django 5.0.6
-- Docker y Docker Compose
-- SQLite
+Backend: Python 3.12 & Django 5.0.6
+Contenedorización: Docker & Docker Compose
+Base de Datos: SQLite
+Despliegue & Infraestructura: Render (Cloud Platform) & Ubuntu Server
 
 ## Características
 
