@@ -64,5 +64,4 @@ hangman-django-docker/
 
 ## 👩‍💻 Autora
 
-Vanessa 
-Ingeniería en Sistemas 
+Vanessa Rodriguez
