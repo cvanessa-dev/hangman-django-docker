@@ -52,12 +52,13 @@ http://localhost:8000
 
 ## Estructura del proyecto
 hangman-django-docker/
-├── config/
-├── hangman/
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-└── manage.py
+├── config/             # Configuración global del proyecto Django (settings, urls, wsgi)
+├── hangman/            # Aplicación principal (vistas, modelos, plantillas y lógica del juego)
+├── screenshots/        # Capturas de pantalla de la interfaz para la documentación
+├── Dockerfile          # Definición de la imagen de Docker para la aplicación
+├── docker-compose.yml  # Configuración para orquestar los servicios
+├── requirements.txt    # Dependencias de Python (Django, Gunicorn, etc.)
+└── manage.py           # Script de gestión de comandos de Django
 
 ## Autora
 
