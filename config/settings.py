@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-7)&n_4#4pwsm=$3k5byuc0r@q99kn5&)&lwad7fzba@jw7bq&_
 DEBUG = True
 
 ALLOWED_HOSTS = ['hangman-django-docker.onrender.com', 'localhost', '127.0.0.1']
-
+CSRF_TRUSTED_ORIGINS = ['https://hangman-django-docker.onrender.com']
 # Application definition
 
 INSTALLED_APPS = [
