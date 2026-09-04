@@ -62,7 +62,7 @@ hangman-django-docker/
 └── manage.py           # Script de gestión de comandos de Django
 ```
 
-## Autora
+## 👩‍💻 Autora
 
 Vanessa 
 Ingeniería en Sistemas 
